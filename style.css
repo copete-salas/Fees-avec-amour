@@ -15,5 +15,9 @@ body {
 
 .logo-connecting {
   height: 2%;
-  width: auto;
+  width: auto%;
+}
+
+.connecting {
+  width: 5%;
 }
