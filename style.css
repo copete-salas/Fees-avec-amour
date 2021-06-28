@@ -4,15 +4,35 @@ body {
 
 header {
   display: flex;
+  margin-top: 15px;
+  margin-bottom: 45px;
 }
 
-.logo-connect {
-  width: 25%;
-  height: auto;
+.connect {
+  margin-left: 5%;
 }
 
-.logo {
-  width: 18%;
-  height: auto;
-  margin-left: 10px;
+.social-network {
+  position: absolute;
+  right: 5%;
+}
+
+main {
+  text-align: center;
+}
+
+#title {
+  display: flex;
+}
+
+.title-logo {
+  position: relative;
+  left: 25%;
+  transform: translateX(-50%);
+}
+
+.title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
