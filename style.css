@@ -1,5 +1,11 @@
+@font-face {
+  font-family: amatic;
+  src: url(font/amatic/Amatic-Bold.ttf);
+}
+
 body {
   background: rgb(254, 238, 241);
+  font-family: amatic;
 }
 
 header {
@@ -27,12 +33,14 @@ main {
 
 .title-logo {
   position: relative;
-  left: 25%;
+  left: 33%;
   transform: translateX(-50%);
 }
 
 .title {
+  font-size: 50px;
   position: absolute;
+  top: 35%;
   left: 50%;
   transform: translateX(-50%);
 }
