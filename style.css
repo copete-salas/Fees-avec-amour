@@ -71,7 +71,7 @@ article {
 }
 
 .mention {
-  height: 200px;
+  height: auto;
   width: 100%;
   background-color: black;
   color: white;
@@ -80,4 +80,5 @@ article {
 
 .mention-3 {
   display: flex;
+  justify-content: space-around;
 }
