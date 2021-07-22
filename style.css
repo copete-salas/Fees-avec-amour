@@ -23,24 +23,35 @@ header {
   right: 5%;
 }
 
-main {
+.bar-nav {
+  margin-top: 100px;
+  margin-bottom: 150px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 2em;
+}
+
+.nav {
+  cursor: pointer;
+  text-shadow: grey 5px 5px 3px;
+}
+
+.introduction {
   text-align: center;
 }
 
-#title {
-  display: flex;
+h1 {
+  font-size: 3em;
 }
 
-.title-logo {
-  position: relative;
-  left: 33%;
-  transform: translateX(-50%);
+.stand_Marie-Jo {
 }
 
-.title {
-  font-size: 50px;
-  position: absolute;
-  top: 35%;
-  left: 50%;
-  transform: translateX(-50%);
+article {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.bienvenue {
+  font-size: 1.8em;
 }
