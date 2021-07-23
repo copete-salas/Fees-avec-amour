@@ -40,6 +40,11 @@ header {
   text-shadow: grey 5px 5px 3px;
 }
 
+.lien:link {
+  text-decoration: none;
+  color: black;
+}
+
 .nav::after {
   content: "";
   display: block;
