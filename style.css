@@ -70,7 +70,7 @@ header {
   padding-top: 245px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   .fermeture {
     height: 290px;
   }
@@ -81,7 +81,7 @@ header {
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 801px) {
   .fermeture {
     display: none;
   }
