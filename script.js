@@ -5,3 +5,7 @@ const message = () => {
 };
 
 window.onload = message;
+
+// montre la position où on se situe
+const position = document.getElementById("position");
+position.textContent = "Acceuil";
