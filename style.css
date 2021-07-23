@@ -81,6 +81,12 @@ header {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .fermeture {
+    display: none;
+  }
+}
+
 .introduction {
   text-align: center;
 }
