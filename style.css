@@ -45,7 +45,7 @@ a:link {
 }
 
 .link {
-  color: black;
+  color: rgb(155, 155, 155);
 }
 
 .nav::after {
@@ -62,7 +62,7 @@ a:link {
   transform: scale(1);
 }
 
-/* .fermeture {
+.fermeture {
   max-width: 100%;
   height: 550px;
   background-image: url(logo/fermeture.png);
@@ -93,21 +93,22 @@ a:link {
   .fermeture {
     display: none;
   }
-} */
+}
 
 .introduction {
   text-align: center;
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 5em;
+  color: rgb(155, 155, 155);
 }
 
 .stand_Marie-Jo {
 }
 
 article {
-  margin-top: 100px;
+  margin-top: 200px;
   text-align: center;
 }
 
