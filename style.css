@@ -37,7 +37,7 @@ header {
 
 .nav {
   cursor: pointer;
-  text-shadow: rgb(238, 128, 140) 5px 5px 3px;
+  text-shadow: rgb(155, 155, 155) 5px 5px 3.5px;
 }
 
 a:link {
