@@ -27,6 +27,19 @@ header {
   margin-left: 20px;
 }
 
+.search {
+  border-style: dotted;
+  text-align: center;
+  color: rgb(155, 155, 155);
+  background-color: rgb(254, 238, 241);
+  opacity: 0.5;
+  font-family: amatic;
+  font-size: 2em;
+  margin-left: 50px;
+  width: 200px;
+  padding-bottom: 10px;
+}
+
 .bar-nav {
   margin-top: 60px;
   margin-bottom: 60px;
